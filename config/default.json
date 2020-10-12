@@ -1,5 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://jgoff88:GOspursgo!!1234@contacts.jukf8.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "secret"
-
-}
